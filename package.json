@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MichaelQQ/AlphaTu/issues"
   },
-  "homepage": "https://github.com/MichaelQQ/AlphaTu#readme"
+  "homepage": "https://github.com/MichaelQQ/AlphaTu#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
